@@ -1,2 +1,2 @@
-# Mentor_project
-*published: https://kainatn.github.io/Mentor_project/
+# Own Bussiness
+*published: https://kainatn.github.io/Zari_Material_House/
